@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="88" height="88" version="1.1" viewBox="0 0 23.283 23.283" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <rect x="-8.2454e-6" y="-8.2454e-6" width="23.283" height="23.283" ry="2.192" stroke-width=".76792"/>
+ <g transform="translate(-32.821 -29.564)" stroke="#000" stroke-width=".26458">
+  <rect x="33.946" y="30.688" width="7.0115" height="7.0115" ry=".66008" fill="#ccc"/>
+  <rect x="40.957" y="30.688" width="7.0115" height="7.0115" ry=".66008" fill="#b3b3b3"/>
+  <rect x="47.969" y="30.688" width="7.0115" height="7.0115" ry=".66008" fill="#f2f2f2"/>
+  <rect x="33.946" y="37.7" width="7.0115" height="7.0115" ry=".66008" fill="#4d4d4d"/>
+  <rect x="40.957" y="37.7" width="7.0115" height="7.0115" ry=".66008" fill="#ccc"/>
+  <rect x="47.969" y="37.7" width="7.0115" height="7.0115" ry=".66008" fill="#808080"/>
+  <rect x="33.946" y="44.711" width="7.0115" height="7.0115" ry=".66008" fill="#ccc"/>
+  <rect x="40.957" y="44.711" width="7.0115" height="7.0115" ry=".66008" fill="#999"/>
+  <rect x="47.969" y="44.711" width="7.0115" height="7.0115" ry=".66008" fill="#4d4d4d"/>
+ </g>
+</svg>
